@@ -163,9 +163,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="417.85794"
-     inkscape:cy="333.89032"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="295.66526"
+     inkscape:cy="547.41156"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -853,9 +853,9 @@
        id="g38551"
        transform="matrix(0.99744189,0,0,1,-74.006439,-64.925843)">
       <rect
-         style="opacity:0.35;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1.03800833;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:0.35;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.9260599;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect982-8-7"
-         width="198.27403"
+         width="157.81284"
          height="5.2948771"
          x="77.521248"
          y="96.192001" />
@@ -870,7 +870,7 @@
            y="99.842323"
            x="79.216904"
            style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222223px;line-height:110.00000238%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-           sodipodi:role="line">datalad [--DATALAD-OPTION &lt;opt. flag spec.&gt;] COMMAND COMMAND-ARGUMENTS [--COMMAND-OPTION &lt;opt. flag spec&gt;] [PATH]</tspan></text>
+           sodipodi:role="line">datalad [--GLOBAL-OPTION &lt;opt. flag spec.&gt;] COMMAND [ARGUMENTS] [--OPTION &lt;opt. flag spec&gt;]</tspan></text>
     </g>
     <text
        xml:space="preserve"
@@ -1255,7 +1255,7 @@
            y="53.171642"
            x="50.548103"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:90.49999714%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1;stroke-width:0.05657204px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-           sodipodi:role="line">...for commands</tspan></text>
+           sodipodi:role="line">Command options</tspan></text>
       <text
          inkscape:export-ydpi="272.60767"
          inkscape:export-xdpi="272.60767"
@@ -1269,7 +1269,7 @@
            y="53.218258"
            x="152.14378"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:90.49999714%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:center;text-anchor:middle;fill:#666666;fill-opacity:1;stroke-width:0.05657204px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-           sodipodi:role="line">...for the main datalad command</tspan></text>
+           sodipodi:role="line">Global options</tspan></text>
       <g
          id="g38551-9"
          transform="matrix(1.0288054,0,0,0.53655299,-147.0775,13.216129)">
