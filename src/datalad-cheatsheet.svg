@@ -163,11 +163,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="336.07136"
-     inkscape:cy="951.47258"
+     inkscape:zoom="3.959798"
+     inkscape:cx="176.43593"
+     inkscape:cy="1483.1107"
      inkscape:document-units="mm"
-     inkscape:current-layer="g2369"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="1376"
@@ -192,7 +192,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1379,11 +1379,11 @@
     </g>
     <rect
        y="56.419231"
-       x="8.9802971"
+       x="8.7226381"
        height="4.07586"
-       width="20.312483"
+       width="17.005024"
        id="rect4435"
-       style="opacity:0.5;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.28901821;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:0.5;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26444313;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.79802155px;line-height:90.49999714%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.05657204px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
@@ -1424,37 +1424,37 @@
    id="tspan3734"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:108.00000429%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start">top-most superdataset. </tspan></tspan></text>
     <rect
-       style="opacity:0.5;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.32856333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.5;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.29794097;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4435-9"
-       width="27.399536"
+       width="22.53022"
        height="3.9050517"
        x="8.7226381"
        y="63.428726" />
     <rect
-       style="opacity:0.5;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.24633743;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.5;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:0.223006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4435-9-4"
-       width="17.31011"
+       width="14.186398"
        height="3.4745038"
        x="8.648078"
        y="68.111671" />
     <rect
-       style="opacity:0.5;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.26862541;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.5;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.24400869;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4435-9-4-2"
-       width="20.584162"
+       width="16.984375"
        height="3.4745038"
        x="8.648078"
        y="72.349205" />
     <rect
-       style="opacity:0.5;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.28879553;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.5;fill:#ff00ff;fill-opacity:1;stroke:none;stroke-width:0.26350832;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4435-9-4-2-5"
-       width="23.791395"
+       width="19.807409"
        height="3.4745038"
        x="8.6011209"
        y="76.625526" />
     <rect
-       style="opacity:0.5;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.37801901;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:0.5;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.34539726;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4435-9-4-2-5-8"
-       width="40.763012"
+       width="34.031162"
        height="3.4745038"
        x="8.5343037"
        y="80.86306" />
@@ -4896,18 +4896,7 @@
                      height="13.367"
                      width="13.367" />
                   <g
-                     aria-label="All of DataLad’s user-oriented commands are exposed via datalad.api. Any command can be imported as a stand-alone command like this:
-
-&gt;&gt;&gt; from datalad.api import &lt;COMMAND&gt;
-
-Alternatively, to import all commands, one can use
-
-&gt;&gt;&gt; import datalad.api as dl
-
-and subsequently access commands as dl.get(), dl.install(), ...
-
-
-"
+                     aria-label="All of DataLad’s user-oriented commands are exposed via datalad.api. Any command can be imported as a stand-alone command like this:  &gt;&gt;&gt; from datalad.api import &lt;COMMAND&gt;  Alternatively, to import all commands, one can use  &gt;&gt;&gt; import datalad.api as dl  and subsequently access commands as dl.get(), dl.install(), ...   "
                      transform="matrix(0.26458333,0,0,0.26458333,-9.2363936,295.08431)"
                      style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:0.69999999;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
                      id="flowRoot2875-3">
@@ -10658,9 +10647,7 @@ and subsequently access commands as dl.get(), dl.install(), ...
                id="flowRoot2875-6-6"
                style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:0.69999999;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
                transform="matrix(0.26458333,0,0,0.26458333,-6.8194495,351.36558)"
-               aria-label="DataLad extensions are additional Python packages that provide (domain-specific) functionality and new commands. The installation is done with standard Python package managers, such as pip, and beyond installation of the package, no additional setup is required. To install a DataLad extension, use $ pip install &lt;extension-name&gt;.
-
-">
+               aria-label="DataLad extensions are additional Python packages that provide (domain-specific) functionality and new commands. The installation is done with standard Python package managers, such as pip, and beyond installation of the package, no additional setup is required. To install a DataLad extension, use $ pip install &lt;extension-name&gt;.  ">
               <path
                  id="path8212"
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:justify;text-anchor:start"
@@ -13123,8 +13110,7 @@ and subsequently access commands as dl.get(), dl.install(), ...
          transform="translate(7.9375004,2.6458334)"
          id="g3560">
         <g
-           aria-label="Need help?
-Type -h/--help after any command and get a help page!"
+           aria-label="Need help? Type -h/--help after any command and get a help page!"
            transform="matrix(0.26458333,0,0,0.26458333,55.12267,9.6358353)"
            style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:0.69999999;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none"
            id="flowRoot2875-72-0">
@@ -13342,8 +13328,7 @@ Type -h/--help after any command and get a help page!"
              id="path5583" />
         </g>
         <g
-           aria-label="Need help?
-Type -h/--help after any command and get a help page!"
+           aria-label="Need help? Type -h/--help after any command and get a help page!"
            transform="matrix(0.26458333,0,0,0.26458333,55.257431,9.6174997)"
            style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:0.69999999;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffa200;fill-opacity:1;stroke:none"
            id="flowRoot2875-72">
@@ -13665,9 +13650,7 @@ Type -h/--help after any command and get a help page!"
                  transform="translate(7.9375004,2.6458334)"
                  id="g3560-1">
                 <g
-                   aria-label="Want to know more?
-Check out the DataLad Handbook at 
-handbook.datalad.org!"
+                   aria-label="Want to know more? Check out the DataLad Handbook at  handbook.datalad.org!"
                    transform="matrix(0.26458333,0,0,0.26458333,55.12267,9.6358353)"
                    style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:0.69999999;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none"
                    id="flowRoot2875-72-0-7">
@@ -13993,9 +13976,7 @@ handbook.datalad.org!"
                      inkscape:connector-curvature="0" />
                 </g>
                 <g
-                   aria-label="Want to know more?
-Check out the DataLad Handbook at 
-handbook.datalad.org!"
+                   aria-label="Want to know more? Check out the DataLad Handbook at  handbook.datalad.org!"
                    transform="matrix(0.26458333,0,0,0.26458333,54.9116,9.5253141)"
                    style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:0.69999999;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffa200;fill-opacity:1;stroke:none"
                    id="flowRoot2875-72-1">
