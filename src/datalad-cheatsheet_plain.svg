@@ -3199,36 +3199,44 @@
                    y="111.99999"
                    x="5.2626848"
                    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:108.00000429%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-                   id="tspan3730-1-6">clone</tspan><tspan
-                   y="114.82023"
+                   id="tspan3730-1-6">clone / </tspan><tspan
+                   id="tspan4225"
+                   y="115.04799"
+                   x="5.2626848"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:108.00000429%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">install</tspan><tspan
+                   y="117.86823"
                    x="5.2626848"
                    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222223px;line-height:108.00000429%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
                    id="tspan4396-5" /><tspan
-                   y="115.64559"
+                   y="118.69359"
                    x="5.2626848"
                    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222223px;line-height:108.00000429%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
                    id="tspan4399-4" /><tspan
-                   y="116.7354"
+                   y="119.7834"
                    x="5.2626848"
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:108.00000429%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
                    id="tspan4408-6">Install an existing dataset from path/url/</tspan><tspan
                    id="tspan5007"
-                   y="119.7834"
+                   y="122.83141"
                    x="5.2626848"
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:108.00000429%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">open data collection (<tspan
    id="tspan3946"
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:Inconsolata">///</tspan>). Providing</tspan><tspan
                    id="tspan5009"
-                   y="122.86809"
+                   y="125.91609"
                    x="5.2626848"
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:108.00000429%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"><tspan
    id="tspan3952"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:Inconsolata">-d</tspan> installs a dataset as a subdataset.</tspan><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:Inconsolata">-d</tspan> installs a dataset as a subdataset. </tspan><tspan
+                   id="tspan4227"
+                   y="129.00078"
+                   x="5.2626848"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:108.00000429%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000">Install allows recursive operations.</tspan><tspan
                    id="tspan4996"
-                   y="125.68833"
+                   y="131.78433"
                    x="5.2626848"
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:108.00000429%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000" /><tspan
-                   y="126.51369"
+                   y="132.6097"
                    x="5.2626848"
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:108.00000429%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
                    id="tspan3743-5-2" /></text>
@@ -3243,21 +3251,46 @@
                  width="46.144184"
                  id="rect982-8-7-2-1"
                  style="opacity:0.35;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.64444065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-              <text
-                 xml:space="preserve"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666679px;line-height:31.70000315%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-                 x="79.216904"
-                 y="99.842323"
-                 id="text1979-3-6"
-                 transform="rotate(0.07807998)"><tspan
-                   id="tspan4927-3"
-                   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11666679px;line-height:80.7000041%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-                   x="79.216904"
-                   y="99.842323">datalad clone SOURCE URL/PATH] \</tspan><tspan
-                   id="tspan5042"
-                   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11666679px;line-height:80.7000041%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-                   x="79.216904"
-                   y="101.55048">              [DEST-PATH ...] </tspan></text>
+              <a
+                 target="http://docs.datalad.org/en/latest/generated/man/datalad-clone.html"
+                 xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-clone.html"
+                 id="a7725">
+                <text
+                   transform="rotate(0.07807998)"
+                   id="text1979-3-6"
+                   y="98.783989"
+                   x="79.215454"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666679px;line-height:31.70000315%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+                   xml:space="preserve"><tspan
+                     y="98.783989"
+                     x="79.215454"
+                     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11666679px;line-height:80.7000041%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+                     id="tspan4927-3">datalad clone SOURCE URL/PATH \</tspan><tspan
+                     y="100.49214"
+                     x="79.215454"
+                     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11666679px;line-height:80.7000041%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+                     id="tspan5042">              [DEST-PATH ...] </tspan></text>
+              </a>
+              <a
+                 target="http://docs.datalad.org/en/latest/generated/man/datalad-install.html"
+                 xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-install.html"
+                 id="a11433">
+                <text
+                   transform="rotate(0.07807998)"
+                   id="text1979-3-6-36"
+                   y="102.52186"
+                   x="79.133377"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:31.70000315%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+                   xml:space="preserve"><tspan
+                     y="102.52186"
+                     x="79.133377"
+                     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11666656px;line-height:80.7000041%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+                     id="tspan4927-3-7">datalad install -s/--source URL/PATH \</tspan><tspan
+                     y="104.23001"
+                     x="79.133377"
+                     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11666656px;line-height:80.7000041%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+                     id="tspan5042-5">              [DEST-PATH] </tspan></text>
+              </a>
             </g>
             <g
                style="fill:#ff6600"
@@ -3273,18 +3306,29 @@
               <text
                  xml:space="preserve"
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:31.70000315%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-                 x="79.216621"
-                 y="99.64222"
+                 x="79.215172"
+                 y="98.583885"
                  id="text1979-3-4-1"
                  transform="rotate(0.07807998)"><tspan
                    id="tspan5077"
                    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11666656px;line-height:80.7000041%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-                   x="79.216621"
-                   y="99.64222">datalad clone ///openneuro</tspan></text>
+                   x="79.215172"
+                   y="98.583885">datalad clone ///openneuro</tspan></text>
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:31.70000315%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+                 x="79.076447"
+                 y="100.93153"
+                 id="text1979-3-4-1-3"
+                 transform="rotate(0.07807998)"><tspan
+                   id="tspan5077-6"
+                   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11666656px;line-height:80.7000041%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+                   x="79.076447"
+                   y="100.93153">datalad install -r -s ///openneuro</tspan></text>
             </g>
             <g
                id="g4485-6-1"
-               transform="translate(30.144504,1.479531)">
+               transform="translate(29.424031,4.685076)">
               <g
                  id="g4490-5-0"
                  transform="translate(20.505208,-1.889881)">
@@ -3309,7 +3353,7 @@
             </g>
             <g
                id="g4485-9-6-1"
-               transform="translate(12.770047,12.864676)"
+               transform="translate(12.049575,16.070221)"
                style="fill:#008000">
               <g
                  id="g4490-3-7-3"
@@ -3340,7 +3384,7 @@
             </g>
             <g
                id="g4490-3-5-3-2-2"
-               transform="translate(12.633737,29.024306)"
+               transform="translate(27.618147,32.199308)"
                style="fill:#ff00ff">
               <g
                  id="g4537-5-0-4-0"
@@ -3367,7 +3411,7 @@
             </g>
             <g
                id="g4485-9-6-5-1"
-               transform="translate(16.755954,12.895219)"
+               transform="translate(15.929466,16.086922)"
                style="fill:#000080">
               <g
                  id="g4490-3-7-4-0"
@@ -3394,6 +3438,62 @@
                        y="111.88009"
                        x="18.917467"
                        id="tspan4471-6-69-8-2">-R</tspan></text>
+                </g>
+              </g>
+            </g>
+            <g
+               id="g4485-6-1-7"
+               transform="translate(29.424031,1.3442099)">
+              <g
+                 id="g4490-5-0-5"
+                 transform="translate(20.505208,-1.889881)">
+                <rect
+                   style="opacity:0.5;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.10811383;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                   id="rect4435-8-5-8-3"
+                   width="3.4676473"
+                   height="3.3408689"
+                   x="17.247032"
+                   y="109.31942" />
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                   x="18.917467"
+                   y="111.88009"
+                   id="text4473-3-9-56"><tspan
+                     id="tspan4471-8-0-2"
+                     x="18.917467"
+                     y="111.88009"
+                     style="stroke-width:0.26458332">-d</tspan></text>
+              </g>
+            </g>
+            <g
+               id="g4485-9-6-1-9"
+               transform="translate(12.049575,12.729353)"
+               style="fill:#008000">
+              <g
+                 id="g4490-3-7-3-1"
+                 transform="translate(20.505208,-1.889881)"
+                 style="fill:#008000">
+                <g
+                   id="g4537-3-4-2"
+                   transform="translate(21.371271,-11.385145)">
+                  <rect
+                     y="109.31942"
+                     x="17.247032"
+                     height="3.3408689"
+                     width="3.4676473"
+                     id="rect4435-8-9-60-8-7"
+                     style="opacity:0.5;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.10811383;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                  <text
+                     id="text4473-4-2-5-0"
+                     y="111.88009"
+                     x="18.917467"
+                     style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                     xml:space="preserve"><tspan
+                       style="fill:#000000;stroke-width:0.26458332"
+                       y="111.88009"
+                       x="18.917467"
+                       id="tspan4471-6-69-82-9">-D</tspan></text>
                 </g>
               </g>
             </g>
@@ -3634,6 +3734,7 @@
         </g>
       </a>
       <a
+         transform="translate(0.18482341,0.229323)"
          target="http://docs.datalad.org/en/latest/generated/man/datalad-update.html"
          xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-update.html"
          id="a13344">

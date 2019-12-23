@@ -163,11 +163,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.99"
-     inkscape:cx="481.92255"
-     inkscape:cy="1441.4207"
+     inkscape:zoom="1.4000714"
+     inkscape:cx="400.6524"
+     inkscape:cy="1149.6661"
      inkscape:document-units="mm"
-     inkscape:current-layer="g3179"
+     inkscape:current-layer="g8492"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1043"
@@ -199,7 +199,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -3459,46 +3459,56 @@
                    sodipodi:role="line"
                    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:108.00000429%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
                    x="5.2626848"
-                   y="111.99999">clone</tspan><tspan
+                   y="111.99999">clone / </tspan><tspan
+                   sodipodi:role="line"
+                   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222223px;line-height:108.00000429%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Bold';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+                   x="5.2626848"
+                   y="115.04799"
+                   id="tspan4225">install</tspan><tspan
                    id="tspan4396-5"
                    sodipodi:role="line"
                    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222223px;line-height:108.00000429%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
                    x="5.2626848"
-                   y="114.82023" /><tspan
+                   y="117.86823" /><tspan
                    id="tspan4399-4"
                    sodipodi:role="line"
                    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222223px;line-height:108.00000429%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
                    x="5.2626848"
-                   y="115.64559" /><tspan
+                   y="118.69359" /><tspan
                    id="tspan4408-6"
                    sodipodi:role="line"
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:108.00000429%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
                    x="5.2626848"
-                   y="116.7354">Install an existing dataset from path/url/</tspan><tspan
+                   y="119.7834">Install an existing dataset from path/url/</tspan><tspan
                    sodipodi:role="line"
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:108.00000429%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
                    x="5.2626848"
-                   y="119.7834"
+                   y="122.83141"
                    id="tspan5007">open data collection (<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
    id="tspan3946">///</tspan>). Providing</tspan><tspan
                    sodipodi:role="line"
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:108.00000429%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
                    x="5.2626848"
-                   y="122.86809"
+                   y="125.91609"
                    id="tspan5009"><tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Inconsolata;-inkscape-font-specification:Inconsolata"
-   id="tspan3952">-d</tspan> installs a dataset as a subdataset.</tspan><tspan
+   id="tspan3952">-d</tspan> installs a dataset as a subdataset. </tspan><tspan
                    sodipodi:role="line"
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:108.00000429%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
                    x="5.2626848"
-                   y="125.68833"
+                   y="129.00078"
+                   id="tspan4227">Install allows recursive operations.</tspan><tspan
+                   sodipodi:role="line"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:108.00000429%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+                   x="5.2626848"
+                   y="131.78433"
                    id="tspan4996" /><tspan
                    id="tspan3743-5-2"
                    sodipodi:role="line"
                    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222223px;line-height:108.00000429%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:start;text-anchor:start;fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
                    x="5.2626848"
-                   y="126.51369" /></text>
+                   y="132.6097" /></text>
             </g>
             <g
                id="g38551-3-5"
@@ -3510,23 +3520,50 @@
                  height="8.7693815"
                  x="77.521248"
                  y="96.192001" />
-              <text
-                 transform="rotate(0.07807998)"
-                 id="text1979-3-6"
-                 y="99.842323"
-                 x="79.216904"
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666679px;line-height:31.70000315%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-                 xml:space="preserve"><tspan
-                   y="99.842323"
-                   x="79.216904"
-                   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11666679px;line-height:80.7000041%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-                   sodipodi:role="line"
-                   id="tspan4927-3">datalad clone SOURCE URL/PATH] \</tspan><tspan
-                   y="101.55048"
-                   x="79.216904"
-                   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11666679px;line-height:80.7000041%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
-                   sodipodi:role="line"
-                   id="tspan5042">              [DEST-PATH ...] </tspan></text>
+              <a
+                 id="a7725"
+                 xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-clone.html"
+                 target="http://docs.datalad.org/en/latest/generated/man/datalad-clone.html">
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666679px;line-height:31.70000315%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+                   x="79.215454"
+                   y="98.783989"
+                   id="text1979-3-6"
+                   transform="rotate(0.07807998)"><tspan
+                     id="tspan4927-3"
+                     sodipodi:role="line"
+                     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11666679px;line-height:80.7000041%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+                     x="79.215454"
+                     y="98.783989">datalad clone SOURCE URL/PATH \</tspan><tspan
+                     id="tspan5042"
+                     sodipodi:role="line"
+                     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11666679px;line-height:80.7000041%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+                     x="79.215454"
+                     y="100.49214">              [DEST-PATH ...] </tspan></text>
+              </a>
+              <a
+                 id="a11433"
+                 xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-install.html"
+                 target="http://docs.datalad.org/en/latest/generated/man/datalad-install.html">
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:31.70000315%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+                   x="79.133377"
+                   y="102.52186"
+                   id="text1979-3-6-36"
+                   transform="rotate(0.07807998)"><tspan
+                     id="tspan4927-3-7"
+                     sodipodi:role="line"
+                     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11666656px;line-height:80.7000041%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+                     x="79.133377"
+                     y="102.52186">datalad install -s/--source URL/PATH \</tspan><tspan
+                     id="tspan5042-5"
+                     sodipodi:role="line"
+                     style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11666656px;line-height:80.7000041%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+                     x="79.133377"
+                     y="104.23001">              [DEST-PATH] </tspan></text>
+              </a>
             </g>
             <g
                id="g38551-3-2-7"
@@ -3542,18 +3579,30 @@
               <text
                  transform="rotate(0.07807998)"
                  id="text1979-3-4-1"
-                 y="99.64222"
-                 x="79.216621"
+                 y="98.583885"
+                 x="79.215172"
                  style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:31.70000315%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
                  xml:space="preserve"><tspan
-                   y="99.64222"
-                   x="79.216621"
+                   y="98.583885"
+                   x="79.215172"
                    style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11666656px;line-height:80.7000041%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
                    sodipodi:role="line"
                    id="tspan5077">datalad clone ///openneuro</tspan></text>
+              <text
+                 transform="rotate(0.07807998)"
+                 id="text1979-3-4-1-3"
+                 y="100.93153"
+                 x="79.076447"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:31.70000315%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+                 xml:space="preserve"><tspan
+                   y="100.93153"
+                   x="79.076447"
+                   style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11666656px;line-height:80.7000041%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata, Medium';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+                   sodipodi:role="line"
+                   id="tspan5077-6">datalad install -r -s ///openneuro</tspan></text>
             </g>
             <g
-               transform="translate(30.144504,1.479531)"
+               transform="translate(29.424031,4.685076)"
                id="g4485-6-1">
               <g
                  transform="translate(20.505208,-1.889881)"
@@ -3580,7 +3629,7 @@
             </g>
             <g
                style="fill:#008000"
-               transform="translate(12.770047,12.864676)"
+               transform="translate(12.049575,16.070221)"
                id="g4485-9-6-1">
               <g
                  style="fill:#008000"
@@ -3612,7 +3661,7 @@
             </g>
             <g
                style="fill:#ff00ff"
-               transform="translate(12.633737,29.024306)"
+               transform="translate(27.618147,32.199308)"
                id="g4490-3-5-3-2-2">
               <g
                  style="fill:#ff00ff"
@@ -3640,7 +3689,7 @@
             </g>
             <g
                style="fill:#000080"
-               transform="translate(16.755954,12.895219)"
+               transform="translate(15.929466,16.086922)"
                id="g4485-9-6-5-1">
               <g
                  style="fill:#000080"
@@ -3668,6 +3717,64 @@
                        x="18.917467"
                        y="111.88009"
                        style="fill:#000000;stroke-width:0.26458332">-R</tspan></text>
+                </g>
+              </g>
+            </g>
+            <g
+               transform="translate(29.424031,1.3442099)"
+               id="g4485-6-1-7">
+              <g
+                 transform="translate(20.505208,-1.889881)"
+                 id="g4490-5-0-5">
+                <rect
+                   y="109.31942"
+                   x="17.247032"
+                   height="3.3408689"
+                   width="3.4676473"
+                   id="rect4435-8-5-8-3"
+                   style="opacity:0.5;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.10811383;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+                <text
+                   id="text4473-3-9-56"
+                   y="111.88009"
+                   x="18.917467"
+                   style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                   xml:space="preserve"><tspan
+                     style="stroke-width:0.26458332"
+                     y="111.88009"
+                     x="18.917467"
+                     id="tspan4471-8-0-2"
+                     sodipodi:role="line">-d</tspan></text>
+              </g>
+            </g>
+            <g
+               style="fill:#008000"
+               transform="translate(12.049575,12.729353)"
+               id="g4485-9-6-1-9">
+              <g
+                 style="fill:#008000"
+                 transform="translate(20.505208,-1.889881)"
+                 id="g4490-3-7-3-1">
+                <g
+                   transform="translate(21.371271,-11.385145)"
+                   id="g4537-3-4-2">
+                  <rect
+                     style="opacity:0.5;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.10811383;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                     id="rect4435-8-9-60-8-7"
+                     width="3.4676473"
+                     height="3.3408689"
+                     x="17.247032"
+                     y="109.31942" />
+                  <text
+                     xml:space="preserve"
+                     style="font-style:normal;font-weight:normal;font-size:2.11666656px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#008000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+                     x="18.917467"
+                     y="111.88009"
+                     id="text4473-4-2-5-0"><tspan
+                       sodipodi:role="line"
+                       id="tspan4471-6-69-82-9"
+                       x="18.917467"
+                       y="111.88009"
+                       style="fill:#000000;stroke-width:0.26458332">-D</tspan></text>
                 </g>
               </g>
             </g>
@@ -3925,7 +4032,8 @@
       <a
          id="a13344"
          xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-update.html"
-         target="http://docs.datalad.org/en/latest/generated/man/datalad-update.html">
+         target="http://docs.datalad.org/en/latest/generated/man/datalad-update.html"
+         transform="translate(0.18482341,0.229323)">
         <g
            transform="translate(-2.4440039,40.812076)"
            id="g6126-7">
