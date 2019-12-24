@@ -18,3 +18,10 @@ under the following terms:
 
 2) **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your
  contributions under the same license as the original.
+
+## Contributing to the DataLad Cheatsheet
+
+If you are considering contributing to the DataLad Cheatsheet, you need the tool
+[svglinkify](https://github.com/oxplot/svglinkify) (requires Go). Once setup,
+you can modify the corresponding ``.svg`` file and subsequently run ``make`` in
+the root of this repository.
