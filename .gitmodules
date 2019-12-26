@@ -1,0 +1,4 @@
+[submodule "code/svglinkify"]
+	path = code/svglinkify
+	url = https://github.com/oxplot/svglinkify
+	branch = master
