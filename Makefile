@@ -1,6 +1,7 @@
 all: cheatsheet
 
 cheatsheet: bin pdf/datalad-cheatsheet.pdf
+	cp pdf/datalad-cheatsheet.pdf src
 
 bin: bin/svglinkify
 
