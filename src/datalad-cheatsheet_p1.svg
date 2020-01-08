@@ -164,15 +164,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.89910932"
-     inkscape:cx="138.09599"
-     inkscape:cy="1078.6237"
+     inkscape:cx="-27.623569"
+     inkscape:cy="589.25051"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1133"
+     inkscape:window-width="2560"
+     inkscape:window-height="1403"
      inkscape:window-x="0"
-     inkscape:window-y="30"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -219,7 +219,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -503,287 +503,367 @@
      inkscape:label="Boxes"
      style="display:inline"
      transform="translate(0,-161.89273)">
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#g10773"
-       xlink:href="#g10773"
-       transform="translate(49.545851,83.174273)"
-       id="use10987"
-       width="100%"
-       height="100%" />
-    <g
-       style="display:inline"
-       id="g10773"
-       transform="translate(76.151918,128.37125)"
-       inkscape:tile-cx="29.118696"
-       inkscape:tile-cy="128.60555"
-       inkscape:tile-w="48.765603"
-       inkscape:tile-h="40.53188"
-       inkscape:tile-x0="4.7358942"
-       inkscape:tile-y0="108.33961">
+    <a
+       id="a5511"
+       xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-remove.html"
+       target="http://docs.datalad.org/en/latest/generated/man/datalad-remove.html">
+      <use
+         height="100%"
+         width="100%"
+         id="use10987"
+         transform="translate(49.545851,83.174273)"
+         xlink:href="#g10773"
+         inkscape:tiled-clone-of="#g10773"
+         y="0"
+         x="0"
+         style="display:inline" />
+    </a>
+    <a
+       id="a5482"
+       xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-create.html"
+       target="http://docs.datalad.org/en/latest/generated/man/datalad-create.html">
       <g
-         transform="matrix(0.06489723,0,0,0.06489723,-66.977707,99.117624)"
-         id="g1263-7"
+         inkscape:tile-y0="108.33961"
+         inkscape:tile-x0="4.7358942"
+         inkscape:tile-h="40.53188"
+         inkscape:tile-w="48.765603"
+         inkscape:tile-cy="128.60555"
+         inkscape:tile-cx="29.118696"
+         transform="translate(76.151918,128.37125)"
+         id="g10773"
          style="display:inline">
-        <path
-           sodipodi:nodetypes="sccssss"
-           style="fill:#333;fill-opacity:1"
-           inkscape:connector-curvature="0"
-           class="st0"
-           d="M 673.4,766.9 H -43.928107 V 142.4 H 673.5 c 18.8,0 34,15.2 34,34 v 556.5 c 0,18.8 -15.3,34 -34.1,34 z"
-           id="path1251-5" />
-        <path
-           sodipodi:nodetypes="sccsscs"
-           style="fill:white"
-           inkscape:connector-curvature="0"
-           class="st1"
-           d="M 661.5,755.6 H -38.949464 V 153.7 H 661.5 c 17.6,0 31.9,14.3 31.9,31.9 v 538 c 0.1,17.7 -14.2,32 -31.9,32 z"
-           id="path1253-3" />
-        <polygon
-           transform="translate(330.95673,-624.55488)"
-           style="fill:#ffa200;fill-opacity:1"
-           class="st2"
-           points="289.2,766.9 289.2,817.6 314.8,802.4 340.5,817.6 340.5,766.9 "
-           id="polygon1261-2" />
+        <g
+           style="display:inline"
+           id="g1263-7"
+           transform="matrix(0.06489723,0,0,0.06489723,-66.977707,99.117624)">
+          <path
+             id="path1251-5"
+             d="M 673.4,766.9 H -43.928107 V 142.4 H 673.5 c 18.8,0 34,15.2 34,34 v 556.5 c 0,18.8 -15.3,34 -34.1,34 z"
+             class="st0"
+             inkscape:connector-curvature="0"
+             style="fill:#333;fill-opacity:1"
+             sodipodi:nodetypes="sccssss" />
+          <path
+             id="path1253-3"
+             d="M 661.5,755.6 H -38.949464 V 153.7 H 661.5 c 17.6,0 31.9,14.3 31.9,31.9 v 538 c 0.1,17.7 -14.2,32 -31.9,32 z"
+             class="st1"
+             inkscape:connector-curvature="0"
+             style="fill:white"
+             sodipodi:nodetypes="sccsscs" />
+          <polygon
+             id="polygon1261-2"
+             points="289.2,766.9 289.2,817.6 314.8,802.4 340.5,817.6 340.5,766.9 "
+             class="st2"
+             style="fill:#ffa200;fill-opacity:1"
+             transform="translate(330.95673,-624.55488)" />
+        </g>
+        <rect
+           style="opacity:1;fill:#333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.93333333"
+           id="rect10603"
+           width="14.834767"
+           height="12.883018"
+           x="-69.828522"
+           y="108.35899"
+           rx="0.060999952"
+           ry="0.061366666" />
+        <g
+           id="g8936"
+           transform="translate(-0.9913401,-12.699998)">
+          <path
+             inkscape:connector-curvature="0"
+             id="path8924"
+             d="m -68.541982,134.26236 h 47.555944"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#333;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             sodipodi:nodetypes="cc" />
+          <path
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffa200;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -68.541982,134.00485 h 47.555944"
+             id="path8932"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+        </g>
+        <g
+           transform="matrix(1,0,0,-1,-0.9913401,274.33807)"
+           id="g8942">
+          <path
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#333;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -68.541982,134.26236 h 47.555944"
+             id="path8938"
+             inkscape:connector-curvature="0"
+             sodipodi:nodetypes="cc" />
+          <path
+             inkscape:connector-curvature="0"
+             id="path8940"
+             d="m -68.541982,134.00485 h 47.555944"
+             style="opacity:1;fill:#85d4fc;fill-opacity:1;fill-rule:evenodd;stroke:#80d4ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.93333333"
+             sodipodi:nodetypes="cc" />
+        </g>
       </g>
-      <rect
-         ry="0.061366666"
-         rx="0.060999952"
-         y="108.35899"
-         x="-69.828522"
-         height="12.883018"
-         width="14.834767"
-         id="rect10603"
-         style="opacity:1;fill:#333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.93333333" />
-      <g
-         transform="translate(-0.9913401,-12.699998)"
-         id="g8936">
-        <path
-           sodipodi:nodetypes="cc"
-           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#333;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -68.541982,134.26236 h 47.555944"
-           id="path8924"
-           inkscape:connector-curvature="0" />
-        <path
-           sodipodi:nodetypes="cc"
-           inkscape:connector-curvature="0"
-           id="path8932"
-           d="m -68.541982,134.00485 h 47.555944"
-           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffa200;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      </g>
-      <g
-         id="g8942"
-         transform="matrix(1,0,0,-1,-0.9913401,274.33807)">
-        <path
-           sodipodi:nodetypes="cc"
-           inkscape:connector-curvature="0"
-           id="path8938"
-           d="m -68.541982,134.26236 h 47.555944"
-           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#333;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <path
-           sodipodi:nodetypes="cc"
-           style="opacity:1;fill:#85d4fc;fill-opacity:1;fill-rule:evenodd;stroke:#80d4ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.93333333"
-           d="m -68.541982,134.00485 h 47.555944"
-           id="path8940"
-           inkscape:connector-curvature="0" />
-      </g>
-    </g>
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#g10773"
-       xlink:href="#g10773"
-       transform="translate(49.545854)"
-       id="use10981"
-       width="100%"
-       height="100%" />
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#g10773"
-       xlink:href="#g10773"
-       transform="translate(99.091705)"
-       id="use10989"
-       width="100%"
-       height="100%" />
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#g10773"
-       xlink:href="#g10773"
-       transform="translate(49.545854,41.590214)"
-       id="use10983"
-       width="100%"
-       height="100%" />
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#g10773"
-       xlink:href="#g10773"
-       transform="translate(99.091705,41.590214)"
-       id="use10991"
-       width="100%"
-       height="100%" />
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#g10773"
-       xlink:href="#g10773"
-       transform="translate(148.63756,41.590214)"
-       id="use10999"
-       width="100%"
-       height="100%" />
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#g10773"
-       xlink:href="#g10773"
-       transform="translate(99.085122,124.98458)"
-       id="use10977"
-       width="100%"
-       height="100%" />
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#g10773"
-       xlink:href="#g10773"
-       transform="translate(148.631,124.98458)"
-       id="use10985"
-       width="100%"
-       height="100%" />
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#g10773"
-       xlink:href="#g10773"
-       transform="translate(99.091704,83.298913)"
-       id="use10993"
-       width="100%"
-       height="100%" />
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#g10773"
-       xlink:href="#g10773"
-       transform="translate(148.63756,83.298913)"
-       id="use11001"
-       width="100%"
-       height="100%" />
-    <use
-       style="display:inline"
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#g10773"
-       xlink:href="#g10773"
-       transform="translate(2.3666667e-6,83.174273)"
-       id="use10979"
-       width="100%"
-       height="100%" />
-    <g
-       inkscape:tile-y0="108.33961"
-       inkscape:tile-x0="4.7358942"
-       transform="translate(76.151918,300.35046)"
-       id="use13692"
-       style="display:inline">
+    </a>
+    <a
+       id="a1776"
+       xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-save.html"
+       target="http://docs.datalad.org/en/latest/generated/man/datalad-save.html">
+      <use
+         height="100%"
+         width="100%"
+         id="use10981"
+         transform="translate(49.545854)"
+         xlink:href="#g10773"
+         inkscape:tiled-clone-of="#g10773"
+         y="0"
+         x="0"
+         style="display:inline" />
+    </a>
+    <a
+       id="a5496"
+       xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-status.html"
+       target="http://docs.datalad.org/en/latest/generated/man/datalad-status.html">
+      <use
+         height="100%"
+         width="100%"
+         id="use10989"
+         transform="translate(99.091705)"
+         xlink:href="#g10773"
+         inkscape:tiled-clone-of="#g10773"
+         y="0"
+         x="0"
+         style="display:inline" />
+    </a>
+    <a
+       id="a5499"
+       xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-get.html"
+       target="http://docs.datalad.org/en/latest/generated/man/datalad-get.html">
+      <use
+         height="100%"
+         width="100%"
+         id="use10983"
+         transform="translate(49.545854,41.590214)"
+         xlink:href="#g10773"
+         inkscape:tiled-clone-of="#g10773"
+         y="0"
+         x="0"
+         style="display:inline" />
+    </a>
+    <a
+       id="a5502"
+       xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-clone.html"
+       target="http://docs.datalad.org/en/latest/generated/man/datalad-clone.html">
+      <use
+         height="100%"
+         width="100%"
+         id="use10991"
+         transform="translate(99.091705,41.590214)"
+         xlink:href="#g10773"
+         inkscape:tiled-clone-of="#g10773"
+         y="0"
+         x="0"
+         style="display:inline" />
+    </a>
+    <a
+       id="a5505"
+       xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-update.html"
+       target="http://docs.datalad.org/en/latest/generated/man/datalad-update.html">
+      <use
+         height="100%"
+         width="100%"
+         id="use10999"
+         transform="translate(148.63756,41.590214)"
+         xlink:href="#g10773"
+         inkscape:tiled-clone-of="#g10773"
+         y="0"
+         x="0"
+         style="display:inline" />
+    </a>
+    <a
+       id="a5520"
+       xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-siblings.html"
+       target="http://docs.datalad.org/en/latest/generated/man/datalad-siblings.html">
+      <use
+         height="100%"
+         width="100%"
+         id="use10977"
+         transform="translate(99.085122,124.98458)"
+         xlink:href="#g10773"
+         inkscape:tiled-clone-of="#g10773"
+         y="0"
+         x="0"
+         style="display:inline" />
+    </a>
+    <a
+       id="a5523"
+       xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-publish.html"
+       target="http://docs.datalad.org/en/latest/generated/man/datalad-publish.html">
+      <use
+         height="100%"
+         width="100%"
+         id="use10985"
+         transform="translate(148.631,124.98458)"
+         xlink:href="#g10773"
+         inkscape:tiled-clone-of="#g10773"
+         y="0"
+         x="0"
+         style="display:inline" />
+    </a>
+    <a
+       id="a5514"
+       xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-unlock.html"
+       target="http://docs.datalad.org/en/latest/generated/man/datalad-unlock.html">
+      <use
+         height="100%"
+         width="100%"
+         id="use10993"
+         transform="translate(99.091704,83.298913)"
+         xlink:href="#g10773"
+         inkscape:tiled-clone-of="#g10773"
+         y="0"
+         x="0"
+         style="display:inline" />
+    </a>
+    <a
+       id="a5517"
+       xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-drop.html"
+       target="http://docs.datalad.org/en/latest/generated/man/datalad-drop.html">
+      <use
+         height="100%"
+         width="100%"
+         id="use11001"
+         transform="translate(148.63756,83.298913)"
+         xlink:href="#g10773"
+         inkscape:tiled-clone-of="#g10773"
+         y="0"
+         x="0"
+         style="display:inline" />
+    </a>
+    <a
+       id="a5508"
+       xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-uninstall.html"
+       target="http://docs.datalad.org/en/latest/generated/man/datalad-uninstall.html">
+      <use
+         height="100%"
+         width="100%"
+         id="use10979"
+         transform="translate(2.3666667e-6,83.174273)"
+         xlink:href="#g10773"
+         inkscape:tiled-clone-of="#g10773"
+         y="0"
+         x="0"
+         style="display:inline" />
+    </a>
+    <a
+       id="a5526"
+       xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-run.html"
+       target="http://docs.datalad.org/en/latest/generated/man/datalad-run.html">
       <g
          style="display:inline"
-         id="g13710"
-         transform="matrix(0.06489723,0,0,0.06489723,-66.977707,99.117624)">
+         id="use13692"
+         transform="translate(76.151918,300.35046)"
+         inkscape:tile-x0="4.7358942"
+         inkscape:tile-y0="108.33961">
+        <g
+           transform="matrix(0.06489723,0,0,0.06489723,-66.977707,99.117624)"
+           id="g13710"
+           style="display:inline">
+          <path
+             sodipodi:nodetypes="sccssss"
+             style="fill:#333;fill-opacity:1"
+             inkscape:connector-curvature="0"
+             class="st0"
+             d="M 673.4,766.9 H -43.928107 V 142.4 H 673.5 c 18.8,0 34,15.2 34,34 v 556.5 c 0,18.8 -15.3,34 -34.1,34 z"
+             id="path13704" />
+          <path
+             sodipodi:nodetypes="sccsscs"
+             style="fill:white"
+             inkscape:connector-curvature="0"
+             class="st1"
+             d="M 661.5,755.6 H -38.949464 V 153.7 H 661.5 c 17.6,0 31.9,14.3 31.9,31.9 v 538 c 0.1,17.7 -14.2,32 -31.9,32 z"
+             id="path13706" />
+        </g>
         <path
-           id="path13704"
-           d="M 673.4,766.9 H -43.928107 V 142.4 H 673.5 c 18.8,0 34,15.2 34,34 v 556.5 c 0,18.8 -15.3,34 -34.1,34 z"
-           class="st0"
+           sodipodi:nodetypes="cssscccssssc"
            inkscape:connector-curvature="0"
-           style="fill:#333;fill-opacity:1"
-           sodipodi:nodetypes="sccssss" />
-        <path
-           id="path13706"
-           d="M 661.5,755.6 H -38.949464 V 153.7 H 661.5 c 17.6,0 31.9,14.3 31.9,31.9 v 538 c 0.1,17.7 -14.2,32 -31.9,32 z"
-           class="st1"
-           inkscape:connector-curvature="0"
-           style="fill:white"
-           sodipodi:nodetypes="sccsscs" />
+           id="rect13712"
+           d="m -69.767522,108.35899 h 46.199946 c 0.01689,0 0.03214,0.007 0.04317,0.0179 0.01103,0.0111 0.01783,0.0264 0.01783,0.0434 l 1.456576,0.99844 0.286113,1.6227 c 0.1205,1.3042 0.141598,1.73692 0.06905,2.40222 h -48.072686 c -0.03379,0 -0.061,-0.0274 -0.061,-0.0614 v -4.96206 c 0,-0.034 0.02721,-0.0614 0.061,-0.0614 z"
+           style="opacity:1;fill:#333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.93333333" />
+        <g
+           transform="translate(-0.9913401,-12.699998)"
+           id="g13718">
+          <path
+             sodipodi:nodetypes="cc"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#333;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+             d="m -68.541982,134.26236 h 47.555944"
+             id="path13714"
+             inkscape:connector-curvature="0" />
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path13716"
+             d="m -68.541982,134.00485 h 47.555944"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffa200;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        </g>
+        <g
+           id="g13724"
+           transform="matrix(1,0,0,-1,-0.9913401,274.33807)">
+          <path
+             sodipodi:nodetypes="cc"
+             inkscape:connector-curvature="0"
+             id="path13720"
+             d="m -68.541982,134.26236 h 47.555944"
+             style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#333;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+          <path
+             sodipodi:nodetypes="cc"
+             style="opacity:1;fill:#85d4fc;fill-opacity:1;fill-rule:evenodd;stroke:#80d4ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.93333333"
+             d="m -68.541982,134.00485 h 47.555944"
+             id="path13722"
+             inkscape:connector-curvature="0" />
+        </g>
+        <polygon
+           transform="matrix(0.06489723,0,0,0.06489723,-45.499532,58.585741)"
+           style="display:inline;fill:#ffa200;fill-opacity:1"
+           class="st2"
+           points="289.2,766.9 289.2,817.6 314.8,802.4 340.5,817.6 340.5,766.9 "
+           id="polygon13708" />
       </g>
-      <path
-         style="opacity:1;fill:#333;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.93333333"
-         d="m -69.767522,108.35899 h 46.199946 c 0.01689,0 0.03214,0.007 0.04317,0.0179 0.01103,0.0111 0.01783,0.0264 0.01783,0.0434 l 1.456576,0.99844 0.286113,1.6227 c 0.1205,1.3042 0.141598,1.73692 0.06905,2.40222 h -48.072686 c -0.03379,0 -0.061,-0.0274 -0.061,-0.0614 v -4.96206 c 0,-0.034 0.02721,-0.0614 0.061,-0.0614 z"
-         id="rect13712"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cssscccssssc" />
-      <g
-         id="g13718"
-         transform="translate(-0.9913401,-12.699998)">
-        <path
-           inkscape:connector-curvature="0"
-           id="path13714"
-           d="m -68.541982,134.26236 h 47.555944"
-           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#333;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ffa200;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -68.541982,134.00485 h 47.555944"
-           id="path13716"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cc" />
-      </g>
-      <g
-         transform="matrix(1,0,0,-1,-0.9913401,274.33807)"
-         id="g13724">
-        <path
-           style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#333;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-           d="m -68.541982,134.26236 h 47.555944"
-           id="path13720"
-           inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cc" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path13722"
-           d="m -68.541982,134.00485 h 47.555944"
-           style="opacity:1;fill:#85d4fc;fill-opacity:1;fill-rule:evenodd;stroke:#80d4ff;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.93333333"
-           sodipodi:nodetypes="cc" />
-      </g>
-      <polygon
-         id="polygon13708"
-         points="289.2,766.9 289.2,817.6 314.8,802.4 340.5,817.6 340.5,766.9 "
-         class="st2"
-         style="display:inline;fill:#ffa200;fill-opacity:1"
-         transform="matrix(0.06489723,0,0,0.06489723,-45.499532,58.585741)" />
-    </g>
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use13692"
-       id="use13728"
-       transform="translate(49.540032)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use13692"
-       id="use13730"
-       transform="translate(99.080075)"
-       width="100%"
-       height="100%" />
-    <use
-       x="0"
-       y="0"
-       xlink:href="#use13692"
-       id="use13732"
-       transform="translate(148.62011)"
-       width="100%"
-       height="100%" />
+    </a>
+    <a
+       id="a5540"
+       xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-rerun.html"
+       target="http://docs.datalad.org/en/latest/generated/man/datalad-rerun.html">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(49.540032)"
+         id="use13728"
+         xlink:href="#use13692"
+         y="0"
+         x="0" />
+    </a>
+    <a
+       id="a5543"
+       xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-run-procedure.html"
+       target="http://docs.datalad.org/en/latest/generated/man/datalad-run-procedure.html">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(99.080075)"
+         id="use13730"
+         xlink:href="#use13692"
+         y="0"
+         x="0" />
+    </a>
+    <a
+       id="a5554"
+       xlink:href="http://docs.datalad.org/en/latest/generated/man/datalad-download-url.html"
+       target="http://docs.datalad.org/en/latest/generated/man/datalad-download-url.html">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(148.62011)"
+         id="use13732"
+         xlink:href="#use13692"
+         y="0"
+         x="0" />
+    </a>
     <g
        id="g14650"
        style="display:inline;opacity:0.97000002"
@@ -2953,19 +3033,19 @@
          sodipodi:role="line" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:31.70000315%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333;fill-opacity:1;stroke:none;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444447px;line-height:31.70000315%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
        x="170.53653"
        y="416.79849"
        id="text1979-3-7-6-3"
        transform="rotate(0.07807998)"><tspan
          id="tspan4923-4-5-4"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11666656px;line-height:80.7000041%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';fill:#333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11666656px;line-height:80.7000041%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
          x="170.53653"
          y="416.79849">&lt;URL&gt; [-O PATH]</tspan><tspan
          id="tspan4927-5-6-0"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11666656px;line-height:80.7000041%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';fill:#333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.11666656px;line-height:80.7000041%;font-family:Inconsolata;-inkscape-font-specification:'Inconsolata Medium';fill:#333333;fill-opacity:1;stroke-width:0.16545612px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
          x="170.53653"
          y="419.33612">[-o/--overwrite]</tspan></text>
     <text
