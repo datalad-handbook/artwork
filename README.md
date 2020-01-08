@@ -19,6 +19,10 @@ under the following terms:
 2) **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your
  contributions under the same license as the original.
 
+A number of illustrations are (adapted) open-source illustrations from
+[undraw](https://undraw.co/). Please see the [LICENSE](./LICENSE) file
+for details about the license they were shared under.
+
 ## Contributing to the DataLad Cheatsheet
 
 If you are considering contributing to the DataLad Cheatsheet, you need the tool
