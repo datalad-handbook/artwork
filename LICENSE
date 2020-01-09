@@ -108,6 +108,7 @@ BOOK PARTS SHARED UNDER DIFFERENT LICENSE TERMS
 
 The illustrations
 
+- src/building_blocks.svg
 - src/collaboration_sketch.svg
 - src/contributing.svg
 - src/gitidentity.svg
@@ -115,6 +116,7 @@ The illustrations
 - src/install.svg
 - src/keeptrack.svg
 - src/reading.svg
+- src/recipe.svg
 - src/reproduced.svg
 - src/student.svg
 - src/teacher.svg
