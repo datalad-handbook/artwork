@@ -108,19 +108,30 @@ BOOK PARTS SHARED UNDER DIFFERENT LICENSE TERMS
 
 The illustrations
 
+- src/basics.svg
 - src/building_blocks.svg
+- src/clouds.svg
 - src/collaboration_sketch.svg
 - src/contributing.svg
+- scr/datasets.svg
+- src/enter
+- src/forward.svg
+- src/further.svg
 - src/gitidentity.svg
 - src/going_up.svg
+- src/help.svg
 - src/install.svg
 - src/keeptrack.svg
 - src/reading.svg
 - src/recipe.svg
 - src/reproduced.svg
+- src/security.svg
+- src/settings.svg
 - src/student.svg
 - src/teacher.svg
+- src/usecases.svg
 - src/versioncontrol.svg
+- src/404.svg
 
 have been shared by unDraw (https://undraw.co/) under the following license terms:
 
