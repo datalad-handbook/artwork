@@ -16,7 +16,10 @@
    version="1.1"
    id="svg2293"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="pof_de.svg">
+   sodipodi:docname="pof_de.svg"
+   inkscape:export-filename="/tmp/pof_de.png"
+   inkscape:export-xdpi="299.96735"
+   inkscape:export-ydpi="299.96735">
   <defs
      id="defs2287">
     <linearGradient
@@ -563,10 +566,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4283557"
-     inkscape:cx="472.30416"
+     inkscape:cx="336.8337"
      inkscape:cy="242.74156"
      inkscape:document-units="mm"
-     inkscape:current-layer="g4592"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1119"
@@ -668,7 +671,10 @@
              y="145.21712"
              x="138.26468"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52005196px;line-height:89.39999938%;font-family:'Droid Sans';-inkscape-font-specification:'Droid Sans';text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:black;fill-opacity:1;stroke:none;stroke-width:0.07867009px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:100000;stroke-opacity:1"
-             xml:space="preserve"><tspan
+             xml:space="preserve"
+             inkscape:export-filename="/tmp/text6478-2.png"
+             inkscape:export-xdpi="299.96735"
+             inkscape:export-ydpi="299.96735"><tspan
                y="145.21712"
                x="138.82156"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.39999938%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:center;text-anchor:middle;stroke-width:0.07867009px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
@@ -678,12 +684,12 @@
                x="138.26468"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.39999938%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:center;text-anchor:middle;stroke-width:0.07867009px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
                sodipodi:role="line"
-               id="tspan4152">und skalierbare Datenerfassungs und</tspan><tspan
+               id="tspan4152">und skalierbare Datenerfassung und</tspan><tspan
                y="152.02655"
                x="138.26468"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.39999938%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:center;text-anchor:middle;stroke-width:0.07867009px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
                sodipodi:role="line"
-               id="tspan9406">-transportlogistik für</tspan><tspan
+               id="tspan9406">Transportlogistik für</tspan><tspan
                y="155.43126"
                x="138.26468"
                style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:89.39999938%;font-family:'Latin Modern Sans Demi Cond';-inkscape-font-specification:'Latin Modern Sans Demi Cond';text-align:center;text-anchor:middle;stroke-width:0.07867009px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:100000"
