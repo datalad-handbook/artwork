@@ -114,7 +114,8 @@ The illustrations
 - src/collaboration_sketch.svg
 - src/contributing.svg
 - scr/datasets.svg
-- src/enter
+- src/enter.svg
+- src/ephemeral.svg
 - src/forward.svg
 - src/further.svg
 - src/gists.svg
@@ -128,6 +129,7 @@ The illustrations
 - src/reading.svg
 - src/recipe.svg
 - src/reproduced.svg
+- src/science.svg
 - src/security.svg
 - src/settings.svg
 - src/student.svg
