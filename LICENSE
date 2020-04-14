@@ -108,6 +108,7 @@ BOOK PARTS SHARED UNDER DIFFERENT LICENSE TERMS
 
 The illustrations
 
+- src/advanced.svg
 - src/basics.svg
 - src/building_blocks.svg
 - src/clouds.svg
@@ -124,6 +125,7 @@ The illustrations
 - src/gobig.svg
 - src/going_up.svg
 - src/help.svg
+- src/hero.svg
 - src/install.svg
 - src/keeptrack.svg
 - src/metadata.svg
