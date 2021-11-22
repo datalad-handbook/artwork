@@ -115,8 +115,9 @@ The illustrations
 - src/cluster.svg
 - src/collaboration_sketch.svg
 - src/contributing.svg
-- scr/datasets.svg
-- scr/debug.svg
+- src/datasets.svg
+- src/debug.svg
+- src/design.svg
 - src/enter.svg
 - src/ephemeral.svg
 - src/forward.svg
@@ -129,12 +130,14 @@ The illustrations
 - src/help.svg
 - src/hero.svg
 - src/install.svg
+- src/join.svg
 - src/keeptrack.svg
 - src/late.svg
 - src/metadata.svg
 - src/metadata_intro.svg
 - src/ML.svg
 - src/origin.svg
+- src/programmer.svg
 - src/reading.svg
 - src/recipe.svg
 - src/redirection.svg
