@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   inkscape:version="1.0rc1 (09960d6f05, 2020-04-09)"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="publishing_network_publishgin.svg"
    version="1.1"
    viewBox="0 0 881.55091 639.23991"
    height="639.23993"
    width="881.5509"
    data-name="Layer 1"
-   id="fb0462f1-4822-46c6-85a1-002b71cfcb82">
+   id="fb0462f1-4822-46c6-85a1-002b71cfcb82"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata111">
     <rdf:RDF>
@@ -176,15 +176,15 @@
      fit-margin-top="0"
      inkscape:current-layer="layer2"
      inkscape:window-maximized="1"
-     inkscape:window-y="390"
+     inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:cy="273.47283"
-     inkscape:cx="436.13632"
-     inkscape:zoom="0.96420982"
+     inkscape:cy="-40.984307"
+     inkscape:cx="380.81252"
+     inkscape:zoom="0.58558999"
      showgrid="false"
      id="namedview107"
-     inkscape:window-height="1013"
-     inkscape:window-width="1680"
+     inkscape:window-height="1133"
+     inkscape:window-width="1803"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      guidetolerance="10"
@@ -193,7 +193,10 @@
      borderopacity="1"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     inkscape:document-rotation="0" />
+     inkscape:document-rotation="0"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <title
      id="title2">nakamoto</title>
   <g
@@ -463,75 +466,82 @@
     <text
        xml:space="preserve"
        id="text1177"
-       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1179);fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1179);fill:#000000;fill-opacity:1;stroke:none"
        x="-71.38916"
        y="0"
        transform="translate(0,-24)"><tspan
-         sodipodi:role="line"
          x="207.9082"
-         y="478.41925"><tspan
-           style="font-weight:bold">Git</tspan><tspan
-           dx="10.197901" /></tspan><tspan
-         sodipodi:role="line"
+         y="478.95491"
+         id="tspan41"><tspan
+           style="font-weight:bold"
+           id="tspan37">Git</tspan><tspan
+           style="font-size:14.6667px"
+           id="tspan38">- dataset history (commit messages,  </tspan><tspan
+           style="font-size:14.6667px"
+           id="tspan39">  run </tspan></tspan><tspan
          x="207.9082"
-         y="499.75256"><tspan
-           style="font-size:14.6667px;text-align:start;text-anchor:start">- dataset history (commit messages,  </tspan><tspan
-           dx="4.6621094" /></tspan><tspan
-         sodipodi:role="line"
+         y="500.28823"
+         id="tspan45"><tspan
+           style="font-size:14.6667px"
+           id="tspan42">records)</tspan><tspan
+           style="font-size:14.6667px"
+           id="tspan43">- All files + content committed into Git      </tspan><tspan
+           style="font-size:14.6667px"
+           id="tspan44">  </tspan></tspan><tspan
          x="207.9082"
-         y="521.08587"><tspan
-           style="font-size:14.6667px;text-align:start;text-anchor:start">  run records)</tspan><tspan
-           dx="5.722023" /></tspan><tspan
-         sodipodi:role="line"
+         y="521.62154"
+         id="tspan48"><tspan
+           style="font-size:14.6667px"
+           id="tspan46">(useful with code, text, ...)</tspan><tspan
+           style="font-size:14.6667px"
+           id="tspan47">- File identity </tspan></tspan><tspan
          x="207.9082"
-         y="542.41918"><tspan
-           style="font-size:14.6667px;text-align:start;text-anchor:start">- All files + content committed into Git      </tspan><tspan
-           dx="4.6621094" /></tspan><tspan
-         sodipodi:role="line"
+         y="542.95485"
+         id="tspan51"><tspan
+           style="font-size:14.6667px"
+           id="tspan49">information of all annexed </tspan><tspan
+           style="font-size:14.6667px"
+           id="tspan50">  files (file name, </tspan></tspan><tspan
          x="207.9082"
-         y="563.7525"><tspan
-           style="font-size:14.6667px;text-align:start;text-anchor:start">  (useful with code, text, ...)</tspan><tspan
-           dx="5.7220154" /></tspan><tspan
-         sodipodi:role="line"
+         y="564.28817"
+         id="tspan54"><tspan
+           style="font-size:14.6667px"
+           id="tspan52">identity hash, storage  </tspan><tspan
+           style="font-size:14.6667px"
+           id="tspan53">  locations where to </tspan></tspan><tspan
          x="207.9082"
-         y="585.08581"><tspan
-           style="font-size:14.6667px;text-align:start;text-anchor:start">- File identity information of all annexed </tspan><tspan
-           dx="4.6621094" /></tspan><tspan
-         sodipodi:role="line"
-         x="207.9082"
-         y="606.41912"><tspan
-           style="font-size:14.6667px;text-align:start;text-anchor:start">  files (file name, identity hash, storage  </tspan><tspan
-           dx="4.6621399" /></tspan><tspan
-         sodipodi:role="line"
-         x="207.9082"
-         y="627.75244"><tspan
-           style="font-size:14.6667px;text-align:start;text-anchor:start">  locations where to retrieve it from)</tspan></tspan></text>
+         y="585.62148"
+         id="tspan56"><tspan
+           style="font-size:14.6667px"
+           id="tspan55">retrieve it from)</tspan></tspan></text>
     <text
        transform="translate(330.60226,-24.924977)"
        y="0"
        x="-75.012215"
-       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1179-6);fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1179-6);fill:#000000;fill-opacity:1;stroke:none"
        id="text1177-2"
        xml:space="preserve"><tspan
-         sodipodi:role="line"
          x="207.9082"
-         y="478.41925"><tspan
-           style="font-weight:bold;text-align:start;text-anchor:start">git-annex</tspan><tspan
-           dx="13.760399" /></tspan><tspan
-         sodipodi:role="line"
+         y="478.95491"
+         id="tspan60"><tspan
+           style="font-weight:bold"
+           id="tspan57">git-annex</tspan><tspan
+           style="font-size:14.6667px"
+           id="tspan58">- contents of annexed files</tspan><tspan
+           style="font-size:14.6667px"
+           id="tspan59">- </tspan></tspan><tspan
          x="207.9082"
-         y="499.75256"><tspan
-           style="font-size:14.6667px;text-align:start;text-anchor:start">- contents of annexed files</tspan><tspan
-           dx="7.6412964" /></tspan><tspan
-         sodipodi:role="line"
+         y="500.28823"
+         id="tspan63"><tspan
+           style="font-size:14.6667px"
+           id="tspan61">organized in the &quot;annex&quot; or &quot;object tree&quot;   </tspan><tspan
+           style="font-size:14.6667px"
+           id="tspan62">  of </tspan></tspan><tspan
          x="207.9082"
-         y="521.08587"><tspan
-           style="font-size:14.6667px;text-align:start;text-anchor:start">- organized in the &quot;annex&quot; or &quot;object tree&quot;   </tspan><tspan
-           dx="4.6621094" /></tspan><tspan
-         sodipodi:role="line"
-         x="207.9082"
-         y="542.41918"><tspan
-           style="font-size:14.6667px;text-align:start;text-anchor:start">  of the dataset</tspan></tspan></text>
+         y="521.62154"
+         id="tspan65"><tspan
+           style="font-size:14.6667px"
+           id="tspan64">the dataset</tspan></tspan></text>
     <image
        width="30.608391"
        height="30.187668"
@@ -544,50 +554,110 @@
        transform="translate(-108.27034,-312.06954)"
        y="0"
        x="-71.38916"
-       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1179-9);fill:#000000;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-weight:normal;font-size:21.3333px;line-height:1;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect1179-9);fill:#000000;fill-opacity:1;stroke:none"
        id="text1177-3"
        xml:space="preserve"><tspan
-         sodipodi:role="line"
          x="207.9082"
-         y="478.41925"><tspan
-           style="font-weight:bold">Repositories with annex </tspan></tspan><tspan
-         sodipodi:role="line"
+         y="478.95491"
+         id="tspan67"><tspan
+           style="font-weight:bold"
+           id="tspan66">Repositories with annex </tspan></tspan><tspan
          x="207.9082"
-         y="499.75256"><tspan
-           style="font-weight:bold">support</tspan><tspan
-           dx="10.197899"
-           style="font-weight:bold" /></tspan><tspan
-         sodipodi:role="line"
+         y="500.28823"
+         id="tspan69"><tspan
+           style="font-weight:bold"
+           id="tspan68">support
+</tspan></tspan><tspan
          x="207.9082"
-         y="521.08587"><tspan
-           style="font-size:14.6667px;text-align:start;text-anchor:start">- examples: GIN (gin.g-node.org), GitLab </tspan></tspan><tspan
-         sodipodi:role="line"
+         y="521.62154"
+         id="tspan71"><tspan
+           style="font-size:14.6667px"
+           id="tspan70">- examples: GIN (gin.g-node.org), Forgejo-</tspan></tspan><tspan
          x="207.9082"
-         y="542.41918"><tspan
-           style="font-size:14.6667px;text-align:start;text-anchor:start">instances with enabled annex support  </tspan><tspan
-           dx="4.6621399"
-           style="font-size:14.6667px;text-align:start;text-anchor:start" /></tspan><tspan
-         sodipodi:role="line"
+         y="542.95485"
+         id="tspan73"><tspan
+           style="font-size:14.6667px"
+           id="tspan72">Aneksajo 
+</tspan></tspan><tspan
          x="207.9082"
-         y="563.7525"><tspan
-           style="font-size:14.6667px;text-align:start;text-anchor:start">- can hold large data for free </tspan><tspan
-           dx="4.6621246"
-           style="font-size:14.6667px;text-align:start;text-anchor:start" /></tspan><tspan
-         sodipodi:role="line"
+         y="564.28817"
+         id="tspan75"><tspan
+           style="font-size:14.6667px"
+           id="tspan74">- can hold large data (Gin for free, forgejo-</tspan></tspan><tspan
          x="207.9082"
-         y="585.08581"><tspan
-           style="font-size:14.6667px;text-align:start;text-anchor:start">- exposes Git history and all files + content</tspan><tspan
-           dx="5.7506714"
-           style="font-size:14.6667px;text-align:start;text-anchor:start" /></tspan><tspan
-         sodipodi:role="line"
+         y="585.62148"
+         id="tspan77"><tspan
+           style="font-size:14.6667px"
+           id="tspan76">aneksajo is self-hosted)
+</tspan></tspan><tspan
          x="207.9082"
-         y="606.41912"><tspan
-           style="font-size:14.6667px;text-align:start;text-anchor:start">- datasets can be cloned from there</tspan><tspan
-           dx="8.8623352"
-           style="font-size:14.6667px;text-align:start;text-anchor:start" /></tspan><tspan
-         sodipodi:role="line"
+         y="606.95479"
+         id="tspan79"><tspan
+           style="font-size:14.6667px"
+           id="tspan78">- exposes Git history and all files + content
+</tspan></tspan><tspan
          x="207.9082"
-         y="627.75244"><tspan
-           style="font-size:14.6667px;text-align:start;text-anchor:start"> </tspan></tspan></text>
+         y="628.28811"
+         id="tspan81"><tspan
+           style="font-size:14.6667px"
+           id="tspan80">- datasets can be cloned from there </tspan></tspan></text>
+    <g
+       id="g3"
+       transform="matrix(0.8582764,0,0,0.8582764,242.39822,93.71591)">
+      <g
+         fill="none"
+         id="g6">
+        <g
+           stroke-width="6.615"
+           id="g2">
+          <path
+             stroke="#ff6600"
+             stroke-width="6.64047"
+             d="M 13.928,46.252 V 20.222 A 13.28,13.28 0 0 1 27.208,6.942 H 32.52"
+             id="path1" />
+          <path
+             stroke="#d40000"
+             stroke-width="6.64047"
+             d="m 13.928,46.252 v -7.968 a 13.28,13.28 0 0 1 13.28,-13.28 h 5.312"
+             id="path2" />
+        </g>
+        <g
+           stroke-width="3.969"
+           transform="matrix(1.00385,0,0,1.00385,-155.527,-24.93)"
+           id="g5">
+          <circle
+             cx="191.02901"
+             cy="31.75"
+             r="4.7620001"
+             stroke="#ff6600"
+             id="circle2" />
+          <g
+             stroke="#d40000"
+             id="g4">
+            <circle
+               cx="191.02901"
+               cy="49.742001"
+               r="4.7620001"
+               id="circle3" />
+            <circle
+               cx="168.804"
+               cy="74.083"
+               r="4.7620001"
+               id="circle4" />
+          </g>
+        </g>
+      </g>
+      <g
+         fill="#777777"
+         id="g7">
+        <path
+           d="m 34.648,56.182 c -2.089,-0.269 -4.238,-2.244 -4.538,-4.561 -0.288,-1.937 0.128,-4.198 1.729,-5.476 0.702,-0.479 1.658,-1.015 2.5,-0.951 v 2.757 c -1.003,0.112 -1.975,1.252 -1.954,2.296 0.025,1.359 0.626,2.607 1.933,3.014 1.446,0.487 3.102,0.348 4.44,-0.461 1.106,-0.862 1.208,-2.466 0.63,-3.687 -0.26,-0.672 -0.821,-1.165 -1.582,-1.163 v 2.392 H 35.66 v -5.149 h 6.5 v 1.852 l -1.78,0.016 c 1.661,0.947 1.832,2.991 1.747,4.409 0.06,2.436 -2.347,4.422 -4.734,4.688 -0.864,0.065 -1.594,0.068 -2.743,0.023 z M 30.004,44.171 29.99,41.469 h 12.185 l -10e-4,2.715 z m 4.645,-3.651 v -2.892 h -4.724 v -2.516 h 4.724 v -3.245 h 2.826 v 3.245 h 4.702 v 2.516 h -4.702 l -0.047,2.886 z"
+           id="path6" />
+        <path
+           fill-rule="evenodd"
+           d="m 22.23,24.801 -2.819,3.94 h 1.565 a 9,9 0 0 0 0.103,1.283 l 2.488,-0.377 a 7,7 0 0 1 -0.075,-0.906 h 1.556 z m 1.531,5.732 -2.405,0.724 a 9,9 0 0 0 0.447,1.18 l 2.281,-1.055 a 6,6 0 0 1 -0.323,-0.848 z m 0.753,1.622 -2.114,1.363 a 9,9 0 0 0 3.949,3.365 l 1.006,-2.305 a 6.45,6.45 0 0 1 -2.839,-2.421 z m 3.675,2.715 -0.679,2.425 a 9,9 0 0 0 1.18,0.244 l 0.348,-2.492 A 7,7 0 0 1 28.19,34.869 Z m 21.673,-10.069 -2.819,3.94 h 1.565 q -0.006,0.462 -0.075,0.906 l 2.488,0.377 a 9,9 0 0 0 0.103,-1.283 h 1.556 z m -1.523,5.732 a 6,6 0 0 1 -0.323,0.848 l 2.281,1.055 q 0.264,-0.57 0.447,-1.18 z m -0.753,1.622 a 6.45,6.45 0 0 1 -2.839,2.421 l 1.006,2.305 a 9,9 0 0 0 3.949,-3.365 z m -3.675,2.715 a 7,7 0 0 1 -0.848,0.178 l 0.348,2.492 a 9,9 0 0 0 1.18,-0.244 z"
+           id="path7" />
+      </g>
+    </g>
   </g>
 </svg>
