@@ -109,6 +109,7 @@ BOOK PARTS SHARED UNDER DIFFERENT LICENSE TERMS
 The illustrations
 
 - src/advanced.svg
+- src/application.svg
 - src/basics.svg
 - src/building_blocks.svg
 - src/clouds.svg
@@ -118,11 +119,13 @@ The illustrations
 - src/datasets.svg
 - src/debug.svg
 - src/design.svg
+- src/design_objectives.svg
 - src/enter.svg
 - src/ephemeral.svg
 - src/forward.svg
 - src/functions.svg
 - src/further.svg
+- src/future_view.svg
 - src/gists.svg
 - src/gitidentity.svg
 - src/gobig.svg
@@ -130,6 +133,7 @@ The illustrations
 - src/help.svg
 - src/hero.svg
 - src/install.svg
+- src/interior_design.svg
 - src/join.svg
 - src/keeptrack.svg
 - src/late.svg
@@ -141,13 +145,18 @@ The illustrations
 - src/reading.svg
 - src/recipe.svg
 - src/redirection.svg
+- src/remote_designteam.svg
 - src/reproduced.svg
+- src/right_direction.svg
 - src/runner_start.svg
 - src/science.svg
 - src/security.svg
 - src/settings.svg
 - src/student.svg
 - src/teacher.svg
+- src/typewriter.svg
+- src/ukb_datasets.svg
+- src/universe.svg
 - src/usecases.svg
 - src/user_types.svg
 - src/versioncontrol.svg
